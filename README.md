@@ -10,5 +10,9 @@ Tímto bych chtěl poděkovat paní Ing. Janě Vitvarové PhD. za tuto možnost.
 
 ### Workshop probíhal v učebně A202 od 13:20.
 
+``` janet
+(print "Hello world")
+```
+
 
 Josef "pepe" Pospíšil.
